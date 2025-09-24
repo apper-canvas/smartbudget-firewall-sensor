@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "name": "Emergency Fund",
+    "targetAmount": 10000,
+    "currentAmount": 2500,
+    "targetDate": "2024-12-31T00:00:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "name": "Summer Vacation",
+    "targetAmount": 3000,
+    "currentAmount": 800,
+    "targetDate": "2024-06-01T00:00:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "name": "New Laptop",
+    "targetAmount": 2500,
+    "currentAmount": 1200,
+    "targetDate": "2024-05-15T00:00:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "name": "Car Down Payment",
+    "targetAmount": 5000,
+    "currentAmount": 1750,
+    "targetDate": "2024-09-01T00:00:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "name": "Home Renovation",
+    "targetAmount": 15000,
+    "currentAmount": 3200,
+    "targetDate": "2025-03-01T00:00:00.000Z",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

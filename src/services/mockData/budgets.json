@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "category": "Groceries",
+    "allocated": 300,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  },
+  {
+    "Id": 2,
+    "category": "Transportation",
+    "allocated": 150,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  },
+  {
+    "Id": 3,
+    "category": "Entertainment",
+    "allocated": 200,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  },
+  {
+    "Id": 4,
+    "category": "Utilities",
+    "allocated": 250,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  },
+  {
+    "Id": 5,
+    "category": "Healthcare",
+    "allocated": 400,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  },
+  {
+    "Id": 6,
+    "category": "Shopping",
+    "allocated": 350,
+    "spent": 0,
+    "month": "January",
+    "year": 2024
+  }
+]
